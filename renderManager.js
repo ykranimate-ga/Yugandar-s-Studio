@@ -149,10 +149,10 @@ function updateProgressScreen(data = {"enabled": false, "stage": 0, "progress": 
 
     document.getElementById("overlay").style.display = (overlayData.enabled ? "block" : "none");
     var stageData = [
-        {title: "Preparing...", description: "Preparing Your Video..."},
-        {title: "Rendering...", description: "Rendering Your Video..."},
-        {title: "Packing...", description:  "Packing Your Video..."},
-        {title: "DONE!", description: "The Video Is DONE..."}
+        {title: "Preparing...", description: "The little hamsters are stretching... They are almost ready."},
+        {title: "Rendering...", description: "The little hamsters are drawing each frame... one by one... give them a few seconds..."},
+        {title: "Packing...", description: "The little hamsters are now taking their frames and tying them together in a neat little package... Give them time, this proccess is a lot of work."},
+        {title: "DONE!", description: "The little hamsters have now sent you the package, it should download, if not. CLICK ME"}
     ]
 
     document.getElementById("progressLabel").innerHTML = stageData[overlayData.stage].title;

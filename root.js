@@ -2,8 +2,8 @@ var canvas = document.getElementById("canvas");
 var ctx = canvas.getContext("2d", {alpha: false});
 
 const ABOUT = {
-    version: "1.0",
-    build: "2022"
+    version: "1.0.0",
+    build: "alpha"
 };
 
 const DEG_TO_RAD = Math.PI/180;
