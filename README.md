@@ -18,7 +18,7 @@ Simple Features Included for the 1st release...
 
 - It Might Have The TTS Voice System
 - Speech Bubbles
-- + Yugandar's Theme Integration In The Update 2023 December For Now, it will be a BASIC TOOL To make animation Video From Images Only
+- Yugandar's Theme Integration In The Update 2023 December For Now, it will be a BASIC TOOL To make animation Video From Images Only
 
 - That Stuff Was Meant To Be Planned Next Year.. At December 2023 ONLY...
 
